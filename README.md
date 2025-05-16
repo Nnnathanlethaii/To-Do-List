@@ -3,7 +3,7 @@
 Weather App
 
 Features:
-Enter a city name to get current weather,
+Enter a city name to get the current weather,
 Displays temperature, weather description, and an icon,
-and Uses the OpenWeatherMap API
+and uses the OpenWeatherMap API
 
